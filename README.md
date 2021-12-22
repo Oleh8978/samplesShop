@@ -1,7 +1,8 @@
   Intro<img width="1437" alt="Screenshot 2021-12-23 at 01 33 43" src="https://user-images.githubusercontent.com/53382946/147166540-cdc3b25f-5b62-42d0-96ab-b4ea3c11beb9.png">
 <img width="1422" alt="Screenshot 2021-12-23 at 01 34 25" src="https://user-images.githubusercontent.com/53382946/147166574-af3e2379-aac2-4790-8a71-f0be3c5a66ee.png">
 
-  
+  <img width="1366" alt="Screenshot 2021-12-23 at 01 35 22" src="https://user-images.githubusercontent.com/53382946/147166625-4b66a617-b7f0-4e78-bf3d-33adc8babb5e.png">
+
 I worked on this project with huge presure and with small time frames. Code isn't perfect but you can see samples of my work on open sourse projects like that.
 
 So, consider this as a learning example or just a showcase rather than a production-quality code.
