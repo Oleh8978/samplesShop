@@ -5,10 +5,10 @@
 
 I worked on this project with huge presure and with small time frames. Code isn't perfect but you can see samples of my work on open sourse projects like that.
 
-So, consider this as a learning example or just a showcase rather than a production-quality code.
+So, consider this as a showcase rather than a production-quality code.
 
   Description
-Shopping cart app build with MERN stack and using RESTful API design. Responsive front-end design done with Material-UI, uses Redux for state management, Node & Express for API, MongoDB as database. App runs in Docker containers but you can also run each sub-app separately, without Docker.
+Shop app build with MERN stack and using RESTful API design. Responsive front-end design done with Material-UI, uses Redux for state management, Node & Express for API, MongoDB as database. App runs in Docker containers but you can also run each sub-app separately, without Docker.
 
 You can get and view the list of all products from the API, register, add products to cart, remove specific product or empty entire cart, make order...
 
