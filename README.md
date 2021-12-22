@@ -1,4 +1,5 @@
-  Intro
+  Intro<img width="1437" alt="Screenshot 2021-12-23 at 01 33 43" src="https://user-images.githubusercontent.com/53382946/147166540-cdc3b25f-5b62-42d0-96ab-b4ea3c11beb9.png">
+
   
 I worked on this project with huge presure and with small time frames. Code isn't perfect but you can see samples of my work on open sourse projects like that.
 
